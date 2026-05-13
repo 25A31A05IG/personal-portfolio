@@ -62,7 +62,7 @@ function App() {
   {/* Right Side Image */}
   <div className="hidden md:block mr-5">
     
-    <div className="w-[420px] h-[420px] rounded-full p-1 
+    <div className="w-[320px] h-[320px] rounded-full p-1 
       shadow-[0_0_60px_rgba(59,130,246,0.5)]">
 
       <img
