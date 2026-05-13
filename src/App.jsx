@@ -48,7 +48,7 @@ function App() {
   {/* Left Side */}
   <div className="max-w-2xl">
 
-    <h1 className="text-7xl font-bold mb-6">
+    <h1 className="text-6xl font-bold mb-6">
       Hi, I'm Ramesh!
     </h1>
 
@@ -60,7 +60,7 @@ function App() {
   </div>
 
   {/* Right Side Image */}
-  <div className="hidden md:block mr-10">
+  <div className="hidden md:block mr-5">
     
     <div className="w-[420px] h-[420px] rounded-full p-1 
       shadow-[0_0_60px_rgba(59,130,246,0.5)]">
