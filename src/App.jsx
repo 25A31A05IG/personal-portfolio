@@ -6,7 +6,7 @@ function App() {
       <nav className="fixed top-0 w-full bg-[#0f172a] flex justify-between items-center px-10 py-6 shadow-lg">
 
         <h1 className="text-3xl font-bold">
-          Ramesh
+          Portfolio 
         </h1>
 
         <ul className="flex gap-8 text-lg">
